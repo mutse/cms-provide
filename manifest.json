@@ -1,0 +1,34 @@
+{
+  "videos":[
+    {
+      "type_name":"漫剧",
+      "vod_actor":"陶渊明 / 石老 / 小玲",
+      "vod_area":"中国",
+      "vod_content":"国风漫剧《桃花源记》，3分钟，1080p。",
+      "vod_director":"Young",
+      "vod_id":1,
+      "vod_lang":"国语",
+      "vod_name":"桃花源记漫剧",
+      "vod_pic":"https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/%E6%A1%83%E8%8A%B1%E6%BA%90%E8%AE%B0.png",
+      "vod_play_from":"R2直连",
+      "vod_play_url":"正片$https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/%E6%A1%83%E8%8A%B1%E6%BA%90%E8%AE%B0.mp4",
+      "vod_remarks":"示例条目，请替换为真实地址",
+      "vod_year":"2026"
+    },
+    {
+      "type_name":"漫剧",
+      "vod_actor":"云希",
+      "vod_area":"中国",
+      "vod_content":"诗歌，《蹬鹳雀楼》",
+      "vod_director":"Young",
+      "vod_id":2,
+      "vod_lang":"国语",
+      "vod_name":"蹬鹳雀楼",
+      "vod_pic":"https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/%E8%B9%AC%E9%B9%B3%E9%9B%80%E6%A5%BC.png",
+      "vod_play_from":"R2直连$$$备用线路",
+      "vod_play_url":"https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/%E7%99%BB%E9%B9%B3%E9%9B%80%E6%A5%BC_%E5%AE%8B%E9%9F%B5_%E4%BA%91%E5%B8%8C%E9%85%8D%E9%9F%B3.mp4",
+       "vod_remarks":"蹬鹳雀楼",
+       "vod_year":"2026"
+    }
+  ]
+}
