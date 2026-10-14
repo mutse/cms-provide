@@ -108,10 +108,10 @@ Cloudflare 控制台 → Workers → apple-cms-station → 设置 → 域和路�
 https://api.mutse.top/api.php/provide/vod/
 ```
 
-## 七、在 LibrePlay 里添加为视频源
+## 七、在 ChiTV 里添加为视频源
 
 设置 → 视频源 → 添加 Apple CMS 源，填上面的接口地址即可。
-搜索、详情、选集、换线路走的都是标准协议，已按 LibrePlay 的解析器逐字段对齐过。
+搜索、详情、选集、换线路走的都是标准协议，已按 ChiTV 的解析器逐字段对齐过。
 
 ## 八、费用（免费额度内）
 
@@ -125,7 +125,7 @@ https://api.mutse.top/api.php/provide/vod/
 ## 九、常见问题
 
 - **中文文件名播不了**：播放串里的 URL 必须百分号编码，脚本已自动处理；手写时把中文部分用编码工具转一下。
-- **网页播放器跨域**：R2 存储桶 → 设置 → CORS 配一条 `AllowedOrigins: ["*"]`；LibrePlay 等原生 App 不受影响。
+- **网页播放器跨域**：R2 存储桶 → 设置 → CORS 配一条 `AllowedOrigins: ["*"]`；ChiTV 等原生 App 不受影响。
 - **m3u8 切片**：把 `.m3u8` 和 `ts/` 整个目录传到 R2，播放串填 m3u8 地址即可；注意 ts 分片文件名保持相对引用。
 - **搜不到**：搜索是标题包含匹配，检查 `vod_name`；接口返回 `code: 1` 才算正常。
 - **想加分类浏览**：在 `type_name` 里写分类，播放器端一般只做搜索+详情，分类页可后续在 Worker 里按 `t=` 参数扩展。
