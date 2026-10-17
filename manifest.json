@@ -11,7 +11,7 @@
       "vod_name":"桃花源记漫剧",
       "vod_pic":"https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/%E6%A1%83%E8%8A%B1%E6%BA%90%E8%AE%B0.png",
       "vod_play_from":"R2直连",
-      "vod_play_url":"正片$https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/%E6%A1%83%E8%8A%B1%E6%BA%90%E8%AE%B0.mp4",
+      "vod_play_url":"https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/peach_blossom_spring/%E6%A1%83%E8%8A%B1%E6%BA%90%E8%AE%B0.m3u8",
       "vod_remarks":"陶渊明，漫剧",
       "vod_year":"2026"
     },
@@ -25,8 +25,8 @@
       "vod_lang":"国语",
       "vod_name":"蹬鹳雀楼",
       "vod_pic":"https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/%E8%B9%AC%E9%B9%B3%E9%9B%80%E6%A5%BC.png",
-      "vod_play_from":"R2直连$$$备用线路",
-      "vod_play_url":"https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/%E7%99%BB%E9%B9%B3%E9%9B%80%E6%A5%BC_%E5%AE%8B%E9%9F%B5_%E4%BA%91%E5%B8%8C%E9%85%8D%E9%9F%B3.mp4",
+      "vod_play_from":"R2直连",
+      "vod_play_url":"https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/stork_tower/%E8%B9%AC%E9%B9%B3%E9%9B%80%E6%A5%BC.m3u8",
        "vod_remarks":"蹬鹳雀楼",
        "vod_year":"2026"
     },
@@ -40,10 +40,10 @@
       "vod_lang":"English",
       "vod_name":"The Little Gardeners",
       "vod_pic":"https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/the_little_gardeners.png",
-      "vod_play_from":"R2直连$$$备用线路",
-      "vod_play_url":"https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/the_little_gardeners.mp4",
-       "vod_remarks":"Gardeners",
-       "vod_year":"2026" 
+      "vod_play_from":"R2直连",
+      "vod_play_url":"https://pub-21d2e7fd5d5e490c90072e7d68ac001d.r2.dev/gardeners/the_little_gardeners.m3u8",
+      "vod_remarks":"Gardeners",
+      "vod_year":"2026" 
     }
   ]
 }
